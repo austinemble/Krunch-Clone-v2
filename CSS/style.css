@@ -1,0 +1,199 @@
+body{
+    background-color: #363a41;
+    color:darkgray;
+    margin: 0%;
+    text-align: center;
+    font-family :'Courier New', Courier, monospace;
+}
+.menu{
+    margin-top: 0%;
+    padding-top: 3%;
+    position: fixed;
+    height: 10%;
+    width: 100%;
+    background-color: #1f2022;
+    z-index: 1000;
+    opacity: 0.7 ;
+}
+h3{
+    display: inline-block;
+    padding-left: 0.5%;
+    padding-right: 0.5%;
+}
+.mainDisplay{
+    padding-top: 20%;
+    padding-bottom: 15%;
+    margin-top: 0%;
+    height: 100%;
+    background-color: #363a41;
+    color: white;
+}
+p{
+    margin: auto;
+    
+}
+.btn1 {
+    padding-top: 15%;
+    margin-right: 3px;
+    border-radius: 5px ;
+    color: #ffffff;
+    font-size: 22px;
+    background: #568be2;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn1:hover {
+    background: #363a41;
+    text-decoration: none;
+  }
+
+  .btn2 {
+    padding-top: 5%;
+    margin-left: 3px;
+    /* border-color: #568be2; */
+    border: 1px solid #568be2;
+    border-radius: 5px ;
+    color: #ffffff;
+    font-size: 22px;
+    background-color: transparent;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn2:hover {
+    background: #568be2;
+    text-decoration: none;
+  }
+  em{
+    font-size: xx-large;
+    color: #5c5c5c;
+  }
+  .blue-hr{
+    width: 5%;
+    margin: auto;
+    height: 2px;
+    background-color: #568be2;
+    scroll-behavior: smooth;
+  }
+  .AboutUs-para{
+    display: inline-block;
+    padding-left: 10%;
+    font-family: 'Open Sans', sans-serif;
+    text-align: left;
+    width: 45%;
+    margin-left: 0%;
+    color: #5c5c5c;
+    line-height: 150%;
+    font-weight: normal;
+  }
+  .pencilholder-img{
+    display: inline-block;
+    padding-left: 5%;
+    padding-inline-start: 5%;
+    width: 40%;
+    position: relative;
+  }
+  .imgPortfolio{
+    width: 100%;
+    
+    /* margin-right: 0px;
+    margin-left: 0px; */
+    padding-left: 2.5%;
+    text-align: left;
+  }
+  .img-Portfolio{
+      max-width: 24.81%;
+
+  }
+
+  #contact1{
+    color: #363a41;
+  }
+
+  .testimonials{
+    background-color: #363a41; 
+    color: #212529;
+    background-image: linear-gradient(180deg, rgba(0, 0, 0, .7), rgba(0, 0, 0, .7)), url("/KrunchClone/Images/testimonials.jpg");
+    width: 100%;
+    height: 100%;
+    padding-top: 4%;
+    color: #ffffff;
+
+  }
+
+  #hr-testimonials{
+    background-color: #ffffff;
+  }
+
+  .services{
+    padding-top: 10%;
+    width: 100%;
+  }
+
+  .mainSections{
+    padding-top: 8%;
+    width:100%;
+  }
+
+  .serviceItems{
+    width: 30%;
+    height: 10%;
+    text-align: left;
+    display: inline-block;
+    text-align: left;
+  }
+  .serviceItemPics{
+    text-align: left;
+    width: 20%;
+    padding-right: 0%;
+  }
+  .services-para{
+    text-align: left;
+  }
+
+  .teamSections{
+    width: 20%;
+    display: inline-block;
+
+  }
+  .teamPics{
+    width: 100%;
+    padding-left: 2%;
+    padding-right:2%;
+    text-align: center;
+  }
+  .teamRole{
+    font-size: large;
+    font-weight:500;
+  }
+
+  .videoDiv{
+    text-align: center;
+    color: white;
+    background-image:linear-gradient(180deg, rgba(0, 0, 0, .7), rgba(0, 0, 0, .7)), url("/KrunchClone/Images/handMixer.jpg");
+  }
+
+  .playButtonPic{
+    width: 5%;
+  }
+  .videoDiv-para{
+    width: 70%;
+    color: #ffffff;
+  }
+
+  .news{
+    width: 30%;
+    display: inline-block;
+    text-align: left;
+    font-size: 130%;
+  }
+
+  .bottomContainer{
+    background-color:#1f2022;
+    padding-top: 3%;
+  }
+  .copyright{
+    color: #5c5c5c;
+    width: 100%;
+  }
