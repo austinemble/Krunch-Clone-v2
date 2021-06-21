@@ -132,13 +132,15 @@ p{
   }
 
   .mainSections{
-    padding-top: 8%;
+    padding-top: 10%;
     width:100%;
+    padding-left:3.5%
   }
 
   .serviceItems{
     width: 30%;
     height: 10%;
+    padding-top:3.5%
     text-align: left;
     display: inline-block;
     text-align: left;
